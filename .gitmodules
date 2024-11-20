@@ -1,0 +1,3 @@
+[submodule "defi_yield_farming/lib/forge-std"]
+	path = defi_yield_farming/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
